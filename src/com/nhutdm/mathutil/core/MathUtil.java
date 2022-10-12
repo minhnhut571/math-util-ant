@@ -35,6 +35,7 @@ public class MathUtil {
         for (int i = 1; i <= n ; i++) 
             giaiThua *= i;
         int x =1;
+        x =2;
         return giaiThua;
     }
     
