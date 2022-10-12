@@ -34,6 +34,7 @@ public class MathUtil {
             throw new IllegalArgumentException();
         for (int i = 1; i <= n ; i++) 
             giaiThua *= i;
+        int x =1;
         return giaiThua;
     }
     
